@@ -52,3 +52,4 @@ redex-src-strings-map.txt
 /.settings/org.eclipse.buildship.core.prefs
 /app/baseandroid/release/output.json
 /androidbase/schemas
+/.idea
